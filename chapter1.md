@@ -15,4 +15,4 @@ Writing and running tests are important parts of the Android app development cyc
 
 
 
-[1]:instrumented tests, 对于仪器测试暂时还不是很懂
+[1]: instrumented tests, 对于仪器测试暂时还不是很懂
