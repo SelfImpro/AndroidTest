@@ -2,3 +2,5 @@
 [原文请点击这里](http://developer.android.com/intl/zh-cn/training/testing/unit-testing/local-unit-tests.html)
 
 If your unit test has no dependencies or only has simple dependencies on Android, you should run your test on a local development machine. This testing approach is efficient because it helps you avoid the overhead of loading the target app and unit test code onto a physical device or emulator every time your test is run. Consequently, the execution time for running your unit test is greatly reduced. With this approach, you normally use a mocking framework, like Mockito, to fulfill any dependency relationships.
+
+如果你的单元测试没有任何依赖或者说只依赖了Android库，
