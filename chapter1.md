@@ -16,6 +16,7 @@ Testing App Component Integrations - Verify the behavior of components that user
 
 * 创建仪器化单元测试 - 建立有Android依赖但不能简单的通过使用模拟对象轻易地填充更复杂的单元测试
 * 用户界面自动化测试 - 创建测试去验证用户界面行为正确响应单个应用程序或者跨多个应用的程序交互
+* 应用组件集成测试 - 验证组件在用户非正常交互时的行为，例如Service或者Content Provider
 
 
 
