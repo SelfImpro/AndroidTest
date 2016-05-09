@@ -12,7 +12,9 @@
 * 用户界面自动化测试 - 创建测试去验证用户界面行为正确响应单个应用程序或者跨多个应用的程序交互
 * 应用组件集成测试 - 验证用户不直接交互组件的行为，例如Service或者Content Provider
 
+This lesson teaches you how to build and run your tests using using Android Studio. If you are not using Android Studio, you can learn how to run your tests from the command-line.
 
+这一课教我们使用AS如何创建和运行你的测试。
 
 
 [1]:instrumented tests, 对于仪器测试暂时还不是很懂
