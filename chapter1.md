@@ -16,5 +16,9 @@ This lesson teaches you how to build and run your tests using using Android Stud
 
 这一课教我们使用AS如何创建和运行你的测试。如果你没有用AS，你可以学习[如何通过命令行运行你的测试](http://developer.android.com/tools/testing/testing_otheride.html)。
 
+Configure Your Project for Local Unit Tests
+
+##配置项目本地测试
+
 
 [1]:instrumented tests, 对于仪器测试暂时还不是很懂
