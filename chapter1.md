@@ -8,7 +8,7 @@
 
 Instrumented tests are tests that run on an Android device or emulator. These tests have access to Instrumentation information, such as the Context for the app under test. Instrumented tests can be used for unit, user interface (UI), or app component integration testing. To learn how to develop instrumented tests for your specific needs, see these additional topics:
 
-仪器测试运行在Android设备或者模拟器上面。这些测试需要访问仪器信息，像应用的Context。
+仪器测试运行在Android设备或者模拟器上面运行测试。这些测试需要访问仪器信息，像应用的Context。
 
 
 
