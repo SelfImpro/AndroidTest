@@ -18,7 +18,7 @@ This lesson teaches you how to build and run your tests using using Android Stud
 
 Configure Your Project for Local Unit Tests
 
-##配置项目本地测试
+##配置项目本地单元测试
 
 
 [1]:instrumented tests, 对于仪器测试暂时还不是很懂
