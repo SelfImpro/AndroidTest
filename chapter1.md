@@ -6,8 +6,7 @@
 
 本地单元测试是运行在本地机器上的测试，不需要访问Android framework或者Android设备。学习开发本地单元测试，可以查阅[创建本地单元测试](http://developer.android.com/intl/zh-cn/training/testing/unit-testing/local-unit-tests.html)
 
-
-
+Instrumented tests are tests that run on an Android device or emulator. These tests have access to Instrumentation information, such as the Context for the app under test. Instrumented tests can be used for unit, user interface (UI), or app component integration testing. To learn how to develop instrumented tests for your specific needs, see these additional topics:
 
 
 
