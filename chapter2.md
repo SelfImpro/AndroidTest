@@ -6,3 +6,7 @@ If your unit test has no dependencies or only has simple dependencies on Android
 如果你的单元测试没有任何相关性或者只是Android上的简单依赖，你应该在本地开发机器上面运行你的测试。这种测试方式是高效的，因为他帮助你避免了从头开始加载庞大的应用，以及单元测试代码在
 
 ##安装测试环境
+
+
+
+##
