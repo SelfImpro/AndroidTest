@@ -5,7 +5,7 @@
 
 Local unit tests are tests that run on your local machine, without needing access to the Android framework or an Android device. To learn how to develop local units tests, see Building Local Unit Tests.
 
-本地单元测试是运行在本地机器上的测试，不需要访问Android framework或者Android设备。学习开发本地单元测试，可以查阅[创建本地单元测试][2](http://developer.android.com/intl/zh-cn/training/testing/unit-testing/local-unit-tests.html)
+本地单元测试是运行在本地机器上的测试，不需要访问Android framework或者Android设备。学习开发本地单元测试，可以查阅[创建本地单元测试](http://developer.android.com/intl/zh-cn/training/testing/unit-testing/local-unit-tests.html)
 
 
 
