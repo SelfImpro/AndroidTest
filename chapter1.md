@@ -14,7 +14,7 @@
 
 This lesson teaches you how to build and run your tests using using Android Studio. If you are not using Android Studio, you can learn how to run your tests from the command-line.
 
-这一课教我们使用AS如何创建和运行你的测试。如果你没有用AS，你可以学习[如何通过命令行运行你的测试](http://developer.android.com/tools/testing/testing_otheride.html)
+这一课教我们使用AS如何创建和运行你的测试。如果你没有用AS，你可以学习[如何通过命令行运行你的测试](http://developer.android.com/tools/testing/testing_otheride.html)。
 
 
 [1]:instrumented tests, 对于仪器测试暂时还不是很懂
