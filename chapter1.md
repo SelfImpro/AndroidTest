@@ -14,7 +14,7 @@ Automating User Interface Tests - Create tests to verify that the user interface
 
 Testing App Component Integrations - Verify the behavior of components that users do not directly interact with, such as a Service or a Content Provider.
 
-* 创建仪器化单元测试 - 建立有Android依赖但不能简单的通过使用模拟对象轻易的填充更付出的单元测试
+* 创建仪器化单元测试 - 建立有Android依赖但不能简单的通过使用模拟对象轻易的填充更复杂的单元测试
 * 用户界面自动化测试 - 创建测试去验证用户界面
 
 
