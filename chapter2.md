@@ -7,6 +7,6 @@
 
 Before building your local unit test, make sure to configure your test source code location and project dependencies, as described in Getting Started with Testing.
 
-在创建本地单元测试时，确保已经配置好了测试源代码位置和项目依赖，可以参考[入门测试]（）。
+在创建本地单元测试时，确保已经配置好了测试源代码位置和项目依赖，可以参考[入门测试]()。
 
 ##
