@@ -31,3 +31,8 @@
 [Testing Display Performance](https://developer.android.com/training/testing/performance.html)
 
 ##其他资源
+[Android测试Demo](https://github.com/googlesamples/android-testing)
+[]()
+[]()
+[]()
+[]()
