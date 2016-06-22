@@ -9,8 +9,8 @@
 
 
 ##开始
-开始学习基础的测试app，以及在AS上编写和运行测试案例
-
+Learn the basics of testing your app, with information about building and running your tests with Android Studio:
+开始学习基础的测试程序，构建的知识和通过AS运行测试代码。
 
 
 
