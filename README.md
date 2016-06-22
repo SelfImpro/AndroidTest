@@ -25,7 +25,7 @@
 [Dumpsys System Diagnostics](https://source.android.com/devices/tech/debug/dumpsys.html)
 
 ##应用测试技术
-
+学习测试应用的技术：
 [Automating User Interface Tests](https://developer.android.com/training/testing/ui-testing/index.html)
 [Building Effective Unit Tests](https://developer.android.com/training/testing/unit-testing/index.html)
 [Testing Display Performance](https://developer.android.com/training/testing/performance.html)
