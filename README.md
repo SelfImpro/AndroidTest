@@ -34,5 +34,5 @@
 [Android测试Demo](https://github.com/googlesamples/android-testing)
 [Debugging and testing in Android Studio](https://www.youtube.com/watch?v=2I6fuD20qlY)
 [Android测试实验室](https://codelabs.developers.google.com/codelabs/android-testing/index.html)
-[]()
-[]()
+[Android测试模板](https://github.com/googlesamples/android-testing-templates)
+[android-testing-support-library](https://google.github.io/android-testing-support-library/)
