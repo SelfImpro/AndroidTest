@@ -18,6 +18,8 @@
 ##测试工具和APIs
 通过学习android平台提供的工具，帮助你测试app的每一个部分的每一个级别：
 
-[测试支持库](https://developer.android.com/topic/libraries/testing-support-library/index.html)
-
+[Testing Support Library](https://developer.android.com/topic/libraries/testing-support-library/index.html)
+[UI/Application Exerciser Monkey](https://developer.android.com/studio/test/monkey.html)
+[monkeyrunner](https://developer.android.com/training/testing/index.html)
+[Test from the Command Line](https://developer.android.com/studio/test/command-line.html)
 
