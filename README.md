@@ -16,6 +16,6 @@
 [Android测试(Android Dec Summit 2015)](https://www.youtube.com/watch?v=vdasFFfXKOY)
 
 ##测试工具和APIs
-通过学习android平台提供的工具，帮助你测试app的每一个部分的每一个级别
+通过学习android平台提供的工具，帮助你测试app的每一个部分的每一个级别：
 
 
