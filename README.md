@@ -32,7 +32,7 @@
 
 ##其他资源
 [Android测试Demo](https://github.com/googlesamples/android-testing)
-[]()
-[]()
+[Debugging and testing in Android Studio](https://www.youtube.com/watch?v=2I6fuD20qlY)
+[Android测试实验室](https://codelabs.developers.google.com/codelabs/android-testing/index.html)
 []()
 []()
