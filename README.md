@@ -24,3 +24,6 @@
 [Test from the Command Line](https://developer.android.com/studio/test/command-line.html)
 [Dumpsys System Diagnostics](https://source.android.com/devices/tech/debug/dumpsys.html)
 
+##应用测试技术
+
+[Automating User Interface Tests](https://developer.android.com/training/testing/ui-testing/index.html)
