@@ -22,4 +22,5 @@
 [UI/Application Exerciser Monkey](https://developer.android.com/studio/test/monkey.html)
 [monkeyrunner](https://developer.android.com/training/testing/index.html)
 [Test from the Command Line](https://developer.android.com/studio/test/command-line.html)
+[Dumpsys System Diagnostics](https://source.android.com/devices/tech/debug/dumpsys.html)
 
