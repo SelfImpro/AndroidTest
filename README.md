@@ -12,5 +12,6 @@
 Learn the basics of testing your app, with information about building and running your tests with Android Studio:
 开始学习基础的测试程序，构建的知识和通过AS运行测试：
 
+(开始测试)[https://developer.android.com/training/testing/start/index.html]
 
 
