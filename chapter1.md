@@ -25,7 +25,7 @@ Configure Your Project for Local Unit Tests
 | 源代码路径 | 本地单元测试路径 |
 | -- | -- |
 | src/main/java/Foo.java | src/test/java/FooTest.java |
-| 0:3 | 1:3 |
+| src/debug/java/Foo.java| src/testDebug/java/FooTest.java|
 | 0:4 | 1:4 |
 
 [1]:instrumented tests, 对于仪器测试暂时还不是很懂
