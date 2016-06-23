@@ -17,7 +17,7 @@
 Configure Your Project for Local Unit Tests
 
 ##配置本地单元测试
-在你的AS项目中，你必须将用来本地测试的测试代码存放在指定的资源路径下(src/test/java)。
+在你的AS项目中，你必须将用来本地测试的测试代码存放在指定的资源路径下(src/test/java)。这样通过整合所有的单元测试到一个单一的资源集合中来提高整体的组织结构。
 
 As with production code, you can create local unit tests for a specific flavor or build type. Keep your unit tests in a test source tree location that corresponds to your production source tree, such as:
 
