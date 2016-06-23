@@ -17,7 +17,7 @@
 Configure Your Project for Local Unit Tests
 
 ##配置本地单元测试
-In your Android Studio project, you must store the source files for local unit tests under a specific source directory (src/test/java). This improves project organization by grouping your unit tests together into a single source set.
+在你的AS项目中，你必须将用来本地测试的资源存在在指定的资源路径下(src/test/java)
 
 As with production code, you can create local unit tests for a specific flavor or build type. Keep your unit tests in a test source tree location that corresponds to your production source tree, such as:
 
