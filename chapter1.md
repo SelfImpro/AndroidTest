@@ -24,7 +24,7 @@ Configure Your Project for Local Unit Tests
 
 | 源代码路径 | 本地单元测试路径 |
 | -- | -- |
-| 0:2 | 1:2 |
+| src/main/java/Foo.java | src/test/java/FooTest.java |
 | 0:3 | 1:3 |
 | 0:4 | 1:4 |
 
