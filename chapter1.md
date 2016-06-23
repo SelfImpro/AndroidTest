@@ -28,4 +28,22 @@ Configure Your Project for Local Unit Tests
 | src/debug/java/Foo.java| src/testDebug/java/FooTest.java|
 | src/myFlavor/java/Foo.java | src/testMyFlavor/java/FooTest.java |
 
+
+
+
 [1]:instrumented tests, 对于仪器测试暂时还不是很懂
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
