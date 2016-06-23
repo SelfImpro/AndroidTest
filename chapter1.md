@@ -22,6 +22,7 @@ Configure Your Project for Local Unit Tests
 结合项目代码，你可以创建一个特定的[flavor和build type](https://developer.android.com/studio/build/build-variants.html#workBuildVariants)的本地测试。保证你的单元测试代码树位置对应你的生产源代码树
 如下:
 
+|:---:|:---:|:---:|:---:|
 
 
 [1]:instrumented tests, 对于仪器测试暂时还不是很懂
