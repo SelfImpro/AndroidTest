@@ -28,7 +28,7 @@ Configure Your Project for Local Unit Tests
 | src/debug/java/Foo.java| src/testDebug/java/FooTest.java|
 | src/myFlavor/java/Foo.java | src/testMyFlavor/java/FooTest.java |
 
-你需要通过Junit 4 框架提供的标准API来为你的项目配置测试依赖。如果你的测试需要和Android依赖库交互，导入[Mockito](https://github.com/mockito/mockito)库来完成你的本地测试。更多的使用mock对象，请查看[Mocking Android dependencies](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html#mocking-dependencies)。
+你需要通过Junit 4 框架提供的标准API来为你的项目配置测试依赖。如果你的测试需要和Android依赖库交互，导入[Mockito](https://github.com/mockito/mockito)库来简化你的本地测试。更多的使用mock对象，请查看[Mocking Android dependencies](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html#mocking-dependencies)。
 
 
 [1]:instrumented tests, 对于仪器测试暂时还不是很懂
