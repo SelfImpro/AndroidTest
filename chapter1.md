@@ -19,7 +19,7 @@ Configure Your Project for Local Unit Tests
 ##配置本地单元测试
 在你的AS项目中，你必须将用来本地测试的测试代码存放在指定的资源路径下(src/test/java)。这样通过整合所有的单元测试到一个单一的资源集合中来提高整体的组织结构。
 
-结合项目代码，你可以创建一个特定的[flavor和build type](https://developer.android.com/studio/build/build-variants.html#workBuildVariants)的本地测试。保证你的单元测试代码树位置对应你的生成代码树
+结合项目代码，你可以创建一个特定的[flavor和build type](https://developer.android.com/studio/build/build-variants.html#workBuildVariants)的本地测试。保证你的单元测试代码树位置对应你的生产源代码树
  Keep your unit tests in a test source tree location that corresponds to your production source tree, such as:
 
 
