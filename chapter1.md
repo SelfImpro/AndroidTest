@@ -28,7 +28,7 @@ Configure Your Project for Local Unit Tests
 | src/debug/java/Foo.java| src/testDebug/java/FooTest.java|
 | src/myFlavor/java/Foo.java | src/testMyFlavor/java/FooTest.java |
 
-你需要通过Junit 4 框架提供的标准API来为你的项目创建测试。
+你需要通过Junit 4 框架提供的标准API来为你的项目创建测试依赖。如果你的测试需要和Android 
 
 
 [1]:instrumented tests, 对于仪器测试暂时还不是很懂
