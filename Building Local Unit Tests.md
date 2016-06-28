@@ -98,7 +98,7 @@ public class UnitTestSample{
 ##运行本地单元测试
 按照如下步骤运行本地测试：
 
-1. 确定你的工程已经gradle同步，可以通过点击工具栏Sync Project按钮
+1. 确定你的工程已经gradle同步，可以通过点击工具栏`Sync Project`按钮
 
 
 
