@@ -55,7 +55,7 @@ public class EmailValidatorTest {
  
 3. 为android依赖创建一个mock对象，在声明之前添加`@Mock`注解
 
-4. 
+4. To stub the behavior of the dependency, 你可以指定条件并且当条件满足使用`when()`和`thenReturn()`方法时返回值
 
 
 
