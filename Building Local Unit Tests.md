@@ -51,9 +51,9 @@ public class EmailValidatorTest {
 
 1. 在`build.gradle`中引入Mockito库依赖，如[Set Up Your Testing Environment](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html#setup)所描述的
  
-2. 在开始定义你的单元测试类时，添加`@RunWith(MockitoJunitRuner.class)`注解。
+2. 在开始定义你的单元测试类时，添加`@RunWith(MockitoJunitRuner.class)`注解。这个注解告诉Mockito框架
  
-  
+3. 为android依赖创建一个mock对象，在声明之前添加`@Mock`注解
 
 
 
