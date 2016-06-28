@@ -7,4 +7,4 @@
 
 当然你需要为你的项目配置测试依赖以便使用JUnit4框架提供的标准API。如果你的测试需要与Android依赖交互，导入Mockito库来简化你的单元测试。学习更多关于在本地单元测试中使用mock对象，请移步[Mocking Android dependencies](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html#mocking-dependencies)。
 
-在你的应用顶级目录的'build.gradle'文件中，你需要指定这些测试依赖库。
+在你的应用顶级目录的'build.gradle'文件中，你需要指定这些测试依赖库：
