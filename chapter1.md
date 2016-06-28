@@ -23,7 +23,7 @@ Configure Your Project for Local Unit Tests
 如下:
 
 | 源代码路径 | 本地单元测试路径 |
-|: -- :|: -- :|
+|:--:|:--:|
 | src/main/java/Foo.java | src/test/java/FooTest.java |
 | src/debug/java/Foo.java| src/testDebug/java/FooTest.java|
 | src/myFlavor/java/Foo.java | src/testMyFlavor/java/FooTest.java |
