@@ -80,7 +80,10 @@ public class UnitTestSample{
   @Test
   public void readStringFromContext_LocalizedString(){
     //Given a mocked Context injected into the object under test...
-    
+    whe(mMockContext.getString(R.string.hello_world))
+          .thenReturn(FAKE_STRING);
+          
+     ClassUnderTest myObjectUnderTest = new ClassUnderTest(mMockContext);
   }
 }
 ```
