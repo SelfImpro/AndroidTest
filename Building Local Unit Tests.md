@@ -57,6 +57,8 @@ public class EmailValidatorTest {
 
 4. To stub the behavior of the dependency, 你可以指定条件和返回值，当条件满足使用`when()`和`thenReturn()`方法
 
+以下例子展示如何通过使用模拟的`Context`对象创建一个本地单元测试.
+
 
 
 
