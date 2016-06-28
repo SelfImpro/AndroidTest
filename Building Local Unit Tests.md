@@ -24,3 +24,19 @@ dependencies {
 
 这些例子都展示了如何实现一个本地单元测试类。测试方法`eamilValidator_CorrectEamilSimple_ReturnsTrue`验证应用中`isValidEmail()`方法在测试中返回正确的结果。
 
+```
+import org.junit.Test;
+import java.util.regex.Pattern;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
+
+public class EmailValidatorTest {
+
+    @Test
+    public void emailValidator_CorrectEmailSimple_ReturnsTrue() {
+        assertThat(EmailValidator.isValidEmail("name@email.com"), is(true));
+    }
+    ...
+}
+
+```
