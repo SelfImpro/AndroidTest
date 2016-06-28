@@ -49,7 +49,7 @@ public class EmailValidatorTest {
 
 使用这个框架添加mock对象到你的本地单元测试中，遵循这种编程模型：
 
-.1 在`build.gradle`中引入Mockito库依赖，如[Set Up Your Testing Environment]所描述的
+.1 在`build.gradle`中引入Mockito库依赖，如[Set Up Your Testing Environment](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html#setup)所描述的
  
   
 
