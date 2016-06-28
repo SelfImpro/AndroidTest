@@ -57,7 +57,25 @@ public class EmailValidatorTest {
 
 4. To stub the behavior of the dependency, 你可以指定条件和返回值，当条件满足使用`when()`和`thenReturn()`方法
 
-以下例子展示如何通过使用模拟的`Context`对象创建一个本地单元测试.
+以下例子展示如何通过使用模拟的`Context`对象创建一个本地单元测试。
+
+```
+import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.CoreMatchers.*;
+import static org.mockito.Mockito.*;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.Mock;
+import org.mockito.runners.MockitoJUnitRunner;
+import android.content.SharedPreferences;
+
+@RunWith(MockitoJUnitRunner.class)
+public class UnitTestSample{
+
+  
+
+}
+```
 
 
 
