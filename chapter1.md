@@ -10,7 +10,7 @@ Android测试是基于Junit，你可以在JVM中运行本地测试，或者测�
 ###本地单元测试
 位于module-name/src/test/java/。
 这些测试运行在本地的JVM中，不需要对AndroidFramework APIs进行调用。
-
+详细的介绍，请移步(Building Local Unit Tests)[https://developer.android.com/training/testing/unit-testing/local-unit-tests.html]
 
 
 编写和运行测试在开Android发周期中是一个重要组成部分。精心编写的测试能够帮助你在开发的早期抓住Bug以及让你对自己的代码充满信息。使用AS(Android Studio)，你能够在各种物理或者虚拟Android设备上面运行本地的单元测试或者[仪器测试][1]。然后可以分析测试结果，在开发环境中修改你的代码。
