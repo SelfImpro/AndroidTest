@@ -84,6 +84,12 @@ public class UnitTestSample{
           .thenReturn(FAKE_STRING);
           
      ClassUnderTest myObjectUnderTest = new ClassUnderTest(mMockContext);
+     
+     // ...when the string is returned from the object under test...
+     String result = myObjectUnderTest.getHelloWorldString();
+     
+     //...when the reuslt should be the expected one.
+     assertThat(result, is(FAKE_STRING));
   }
 }
 ```
