@@ -55,6 +55,7 @@ public class EmailValidatorTest {
  
 3. 为android依赖创建一个mock对象，在声明之前添加`@Mock`注解
 
+4.
 
 
 
