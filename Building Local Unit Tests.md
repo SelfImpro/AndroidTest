@@ -5,4 +5,4 @@
 ##搭建你的测试环境
 在你的AS项目中，你应该保存你的测试代码在module-name/src/test/java/目录下。这个目录当你创建项目时就已经存在。
 
-当然你需要为你的项目配置测试依赖以便使用JUnit4框架提供的标准API。如果你的测试需要与Android依赖交互，导入Mockito库来简化你的单元测试。
+当然你需要为你的项目配置测试依赖以便使用JUnit4框架提供的标准API。如果你的测试需要与Android依赖交互，导入Mockito库来简化你的单元测试。学习更多关于在本地单元测试中使用mock对象，请移步[Mocking Android dependencies](https://developer.android.com/training/testing/unit-testing/local-unit-tests.html#mocking-dependencies)。
