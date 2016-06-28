@@ -20,4 +20,4 @@ dependencies {
 ##创建本地单元测试类
 你的本地单元测试类要像JUnit4测试类一样写。[Junit](http://junit.org/)是一个非常有名的并且广泛被使用的一个java单元测试框架。最新的版本库，JUnit4，允许你编写比以前任何版本更加纯净以及更加灵活的测试类。不同于之前基于JUnit3实现android测试的方法，JUnit4，你不需要继承`junit.framework.TestCase`类。你也不需要在你的测试方法前加上一个关键字`test`的前缀，以及使用一些位于`junit.framework`和`junit.extensions`包下的类。
 
-创建一个简单JUnit4的测试类，创建一个包含了一个或者多个测试方法的java类。
+创建一个简单JUnit4的测试类，创建一个包含了一个或者多个测试方法的java类。测试方法始于`@Test`注解和包含执行代码并验证要测试组件的单一功能。
