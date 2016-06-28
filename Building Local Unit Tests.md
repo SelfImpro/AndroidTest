@@ -106,7 +106,7 @@ public class UnitTestSample{
 
 The Android Plugin for Gradle compiles the local unit test code located in the default directory (src/test/java/), builds a test app, and executes it locally using the default test runner class. Android Studio then displays the results in the Run window.
 
-
+android Gradle插件编译默认目录下的（src/test/java）本地单元测试代码
 
 
 
