@@ -18,4 +18,4 @@ dependencies {
 ```
 
 ##创建本地单元测试类
-你的本地单元测试类要像JUnit4测试类一样写。[Junit](http://junit.org/)是一个非常有名的并且广泛被使用的一个java单元测试框架。最新的版本库，Junit4，允许你编写比以前任何版本更加纯净以及更加灵活的测试类。
+你的本地单元测试类要像JUnit4测试类一样写。[Junit](http://junit.org/)是一个非常有名的并且广泛被使用的一个java单元测试框架。最新的版本库，JUnit4，允许你编写比以前任何版本更加纯净以及更加灵活的测试类。不同于之前基于JUnit3实现android测试的方法，JUnit4，你不需要继承`junit.framework`或者`junit.extensions`类。
