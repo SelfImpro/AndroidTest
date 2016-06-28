@@ -104,8 +104,7 @@ public class UnitTestSample{
   4. 测试一个类中所有方法，右击测试文件中的类或者方法，点击`Run`![](https://developer.android.com/images/tools/as-run.png)
   5. 运行所有的测试目录，右击目录，然后选择`Run tests`![](https://developer.android.com/images/tools/as-run.png)
 
-
-
+The Android Plugin for Gradle compiles the local unit test code located in the default directory (src/test/java/), builds a test app, and executes it locally using the default test runner class. Android Studio then displays the results in the Run window.
 
 
 
