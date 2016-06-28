@@ -73,6 +73,8 @@ import android.content.SharedPreferences;
 public class UnitTestSample{
 
   private static final String FAKE_STRING = "HELLO WORLD";
+  
+  
 
 }
 ```
