@@ -96,7 +96,9 @@ public class UnitTestSample{
 学习更多关于使用Mockito框架，请看[Mockito API reference](http://site.mockito.org/mockito/docs/current/org/mockito/Mockito.html)和[sample code](https://github.com/googlesamples/android-testing/tree/master/unit/BasicSample)中`SharedPreferencesHelperTest`类。
 
 ##运行本地单元测试
-按照如下步骤运行本地测试
+按照如下步骤运行本地测试：
+
+
 
 
 
