@@ -101,7 +101,11 @@ public class UnitTestSample{
 1. 确定你的工程已经gradle同步，可以通过点击工具栏`Sync Project`![](https://developer.android.com/images/tools/sync-project.png)按钮
 2. 通过以下方式之一运行你的测试代码：
   3. 运行单个测试，打开`Project`窗口，然后右击测试代码，点击`Run`![](https://developer.android.com/images/tools/as-run.png)
-  4. 测试一个类中所有方法
+  4. 测试一个类中所有方法，右击测试文件中的类或者方法，点击`Run`![](https://developer.android.com/images/tools/as-run.png)
+  5. 运行所有的测试目录，右击目录，然后选择`Run tests`![](https://developer.android.com/images/tools/as-run.png)
+
+
+
 
 
 
