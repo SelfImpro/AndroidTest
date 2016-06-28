@@ -80,6 +80,7 @@ public class UnitTestSample{
   @Test
   public void readStringFromContext_LocalizedString(){
     //Given a mocked Context injected into the object under test...
+    
   }
 }
 ```
