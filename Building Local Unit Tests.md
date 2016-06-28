@@ -45,7 +45,7 @@ public class EmailValidatorTest {
 ##模拟Android依赖
 默认情况下，[Android Plug-in for Gradle](https://developer.android.com/tools/building/plugin-for-gradle.html)执行本地单元测试针对的是`android.jar`库修改版本，里面不包含任何实际代码。相反，通过单元测试调用的Android类方法抛出异常。
 
-你可以使用`mocking framework`
+你可以使用`mocking framework`在代码存根出外部依赖(to stub out external)
 
 
 
