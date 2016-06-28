@@ -46,6 +46,8 @@ public class EmailValidatorTest {
 默认情况下，[Android Plug-in for Gradle](https://developer.android.com/tools/building/plugin-for-gradle.html)执行本地单元测试针对的是`android.jar`库修改版本，里面不包含任何实际代码。相反，通过单元测试调用的Android类方法抛出异常。
 
   你可以使用`mocking framework`在代码存根出外部依赖(to stub out external dependencies)，轻松的按照预期测试你的组件与依赖的交互。通过mock对象替换android依赖，你可以从Android系统的其余部分，同时验证这些依赖关系的正确方法被称为隔离单元测试。java的`Mockito`模拟框架（1.9.5版本或更高）提供了兼容的Android单元测试。通过`Mockito`，你配置mock对象调用时返回特定的值
+  
+  
 
 
 
