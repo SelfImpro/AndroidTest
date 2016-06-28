@@ -42,6 +42,8 @@ public class EmailValidatorTest {
 ```
 要测试你的应用中的组件返回预期的结果，争对一些预期值使用`junit.Assert`方法进行验证检查（或断言）与测试下的组件状态进行对比。为了使测试可读性更高，你可以使用[Hamcrest matchers](https://github.com/hamcrest)（例如`is()`和`equalTo()`方法）来匹配返回的结果对比预期的结果。
 
+##Mock Android依赖
+
 
 
 
