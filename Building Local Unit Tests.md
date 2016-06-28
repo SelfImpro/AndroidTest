@@ -48,6 +48,7 @@ public class EmailValidatorTest {
 你可以使用`mocking framework`在代码存根出外部依赖(to stub out external dependencies)，轻松的按照预期测试你的组件与依赖的交互。通过mock对象替换android依赖，你可以从Android系统的其余部分，同时验证这些依赖关系的正确方法被称为隔离单元测试。java的`Mockito`模拟框架（1.9.5版本或更高）提供了兼容的Android单元测试。通过`Mockito`，你配置mock对象调用时返回特定的值
 
 使用这个框架添加mock对象到你的本地单元测试中，遵循这种编程模型：
+
  
   
 
