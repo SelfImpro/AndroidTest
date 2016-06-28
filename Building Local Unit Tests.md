@@ -74,8 +74,13 @@ public class UnitTestSample{
 
   private static final String FAKE_STRING = "HELLO WORLD";
   
+  @Mock
+  Context mMockContext;
   
-
+  @Test
+  public void readStringFromContext_LocalizedString(){
+    
+  }
 }
 ```
 
