@@ -72,7 +72,7 @@ import android.content.SharedPreferences;
 @RunWith(MockitoJUnitRunner.class)
 public class UnitTestSample{
 
-  
+  private static final String FAKE_STRING = "HELLO WORLD";
 
 }
 ```
