@@ -23,3 +23,4 @@ dependencies {
 创建一个简单JUnit4的测试类，创建一个包含了一个或者多个测试方法的java类。测试方法始于`@Test`注解和包含执行代码并验证要测试组件的单一功能。
 
 这些例子都展示了如何实现一个本地单元测试类。测试方法`eamilValidator_CorrectEamilSimple_ReturnsTrue`验证应用中`isValidEmail()`方法在测试中返回正确的结果。
+
